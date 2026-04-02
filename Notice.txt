@@ -1,0 +1,25 @@
+Usage and Legal Notices:
+
+Tencent is pleased to support the open source community by making Tencent HY-OmniWeaving available.
+
+Copyright (C) 2026 Tencent.  All rights reserved. 
+
+Tencent HY-OmniWeaving is licensed under the TENCENT HY COMMUNITY LICENSE AGREEMENT, except for the third-party components listed below, which remain licensed under their respective original terms. Tencent HY-OmniWeaving does not impose any additional restrictions beyond those specified in the original licenses of these third-party components. Users are required to comply with all applicable terms and conditions of the original licenses and to ensure that the use of these third-party components conforms to all relevant laws and regulations.
+
+For the avoidance of doubt, Tencent HY-OmniWeaving refers solely to training code, inference code, parameters, and weights made publicly available by Tencent in accordance with the TENCENT HY COMMUNITY LICENSE AGREEMENT. 
+
+
+Open Source Model Licensed under the TENCENT HUNYUAN COMMUNITY LICENSE AGREEMENT:
+--------------------------------------------------------------------
+1. HunyuanVideo-1.5
+Copyright © 2025 Tencent
+Please note this model has been modified by Tencent in this distribution.
+
+ 
+
+Terms of the TENCENT HUNYUAN COMMUNITY LICENSE AGREEMENT：
+--------------------------------------------------------------------
+
+Please find the license here: https://huggingface.co/tencent/HunyuanVideo-1.5/blob/main/LICENSE
+
+Please find its third-party reliance here: https://huggingface.co/tencent/HunyuanVideo-1.5/blob/main/NOTICE

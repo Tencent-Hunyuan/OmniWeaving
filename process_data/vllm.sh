@@ -1,0 +1,12 @@
+vllm serve /path/to/Qwen3-VL-235B-A22B-Instruct \
+  --tensor-parallel-size 8 \
+  --enable-expert-parallel \
+  --async-scheduling \
+  --port 8080 \
+  --max-model-len 65536 \
+  --mm-encoder-tp-mode data \
+  --dtype bfloat16 \
+  --max-num-batched-tokens 256 \
+  --distributed-executor-backend mp \
+  --gpu-memory-utilization 0.9 \
+  --limit-mm-per-prompt.video 2
