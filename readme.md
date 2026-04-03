@@ -94,7 +94,7 @@ and [model weights](https://huggingface.co/tencent/HY-OmniWeaving) of OmniWeavin
 <a id="abstract"></a>
 
 ## 📖 Abstract
-While proprietary systems such as Seedance-2.0 have achieved remarkable success in omni-capable video generation, open-source alternatives significantly lag behind. To bridge this gap, we propose <img src="./assets/weaving-mark.svg" alt="OmniWeaving" height="18px"> **OmniWeaving**, an omni-level video generation model featuring powerful multimodal composition and reasoning-informed capabilities. By leveraging a massive-scale pretraining dataset that encompasses diverse compositional and reasoning-augmented scenarios, OmniWeaving learns to temporally bind interleaved text, multi-image, and video inputs while acting as an intelligent agent to infer complex user intentions for sophisticated video creation. 
+We propose <img src="./assets/weaving-mark.svg" alt="OmniWeaving" height="18px"> **OmniWeaving**, an omni-level video generation model featuring powerful multimodal composition and reasoning-informed capabilities. By leveraging a massive-scale pretraining dataset that encompasses diverse compositional and reasoning-augmented scenarios, OmniWeaving learns to temporally bind interleaved text, multi-image, and video inputs while acting as an intelligent agent to infer complex user intentions for sophisticated video creation. 
 Furthermore, we introduce **IntelligentVBench**, the first comprehensive benchmark designed to rigorously assess next-level intelligent unified video generation. Extensive experiments demonstrate that OmniWeaving achieves SoTA performance among open-source unified models.
 
 
