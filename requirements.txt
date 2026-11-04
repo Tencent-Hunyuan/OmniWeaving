@@ -10,7 +10,7 @@ angelslim==0.2.1
 imageio-ffmpeg==0.6.0
 omegaconf>=2.3.0
 torchaudio==2.6.0
-diffusers==0.32.2
+diffusers==0.33.0
 safetensors>=0.5.3
 torchvision>=0.21.0
 qwen-vl-utils==0.0.8
